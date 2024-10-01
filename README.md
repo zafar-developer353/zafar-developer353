@@ -36,8 +36,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a machine learning project to predict housing prices using regression analysis.
 - 🌱 I’m currently learning about reinforcement learning and its applications in game development.
 - 👯 I’m looking to collaborate on open-source data visualization projects.
