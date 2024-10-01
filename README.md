@@ -6,8 +6,6 @@
 - **SQL Expert**
 - **web Developer**
 
-Feel free to explore my projects and connect with me!
-
 ## Programming Languages
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
