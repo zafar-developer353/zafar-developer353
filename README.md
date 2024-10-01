@@ -51,6 +51,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with optimizing SQL queries for large datasets.
 - 💬 Ask me about Python libraries for data analysis like Pandas and NumPy.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yourprofile) or [Twitter](https://twitter.com/yourprofile).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once coded a chatbot that became a meme in my friend group!
+
 
