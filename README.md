@@ -1,6 +1,5 @@
-<div style="overflow: hidden; white-space: nowrap; width: 100%;">
-  <h2 style="display: inline-block; animation: slide 10s linear infinite;">
-    👋 Hi, I'm a Data Scientist | Machine Learning Engineer | SQL Expert | Python Developer
+
+    👋 Hi, I'm a Data Scientist | Machine Learning Engineer | SQL Expert |  Developer
   </h2>
 </div>
 
