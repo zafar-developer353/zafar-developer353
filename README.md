@@ -1,10 +1,4 @@
-# 👋 Welcome!
-
--****I am****:
-- **Data Scientist**
-- **Machine Learning Engineer**
-- **SQL Expert**
-- **web Developer**
+👋 Hi, I'm a Data Scientist | Machine Learning Engineer | SQL Expert | Developer
 
 ## Programming Languages
 
