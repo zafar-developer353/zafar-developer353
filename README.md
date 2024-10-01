@@ -1,10 +1,10 @@
 # 👋 Welcome!
 
-I am:
+###I am:
 - **Data Scientist**
 - **Machine Learning Engineer**
 - **SQL Expert**
-- **Python Developer**
+- ** Developer**
 
 Feel free to explore my projects and connect with me!
 
