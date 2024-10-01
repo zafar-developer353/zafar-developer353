@@ -1,4 +1,4 @@
-👋 Hi, I'm a Data Scientist | Machine Learning Engineer | SQL Expert | Developer
+
 
 ## Programming Languages
 
