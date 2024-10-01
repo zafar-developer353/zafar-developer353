@@ -1,15 +1,13 @@
+# 👋 Welcome!
 
-    👋 Hi, I'm a Data Scientist | Machine Learning Engineer | SQL Expert |  Developer
-  </h2>
-</div>
+I am:
+- **Data Scientist**
+- **Machine Learning Engineer**
+- **SQL Expert**
+- **Python Developer**
 
-<style>
-@keyframes slide {
-  0% { transform: translateX(100%); }
-  50% { transform: translateX(0); }
-  100% { transform: translateX(-100%); }
-}
-</style>
+Feel free to explore my projects and connect with me!
+
 ## Programming Languages
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
