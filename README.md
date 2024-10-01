@@ -36,13 +36,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
-## Hi there 👋
-
-<!--
-**zafar-developer353/zafar-developer353** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## Hi there 👋
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a machine learning project to predict housing prices using regression analysis.
