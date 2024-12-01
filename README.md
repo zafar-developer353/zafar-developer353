@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm an enthusiastic data scientist and AI expert, 
   <!-- Frameworks & Libraries -->
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
   
   <!-- Tools -->
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
